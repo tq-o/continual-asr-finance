@@ -1,8 +1,8 @@
 Code for studying catastrophic forgetting in Whisper-based speech recognition using three adaptation strategies:
 
-- **Baseline** – standard fine-tuning
-- **EWC** – diagonal Fisher regularization
-- **mini-KFAC EWC** – Kronecker-factored curvature approximation
+- Baseline – standard fine-tuning
+- EWC – diagonal Fisher regularization
+- mini-KFAC EWC – Kronecker-factored curvature approximation
 
 **Datasets:** TEDLIUM (Stage A), Earnings22 (Stage B)  
 **Model:** Whisper Small
